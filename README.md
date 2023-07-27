@@ -19,3 +19,13 @@
 ### Ping
 
     while true; do ping 8.8.8.8 -c 1; sleep 1; done
+
+## Command
+
+### NC
+
+nc [-46AacCDdEFhklMnOortUuvz] [-K tc] [-b boundif] [-i interval] [-p source_port] [-s source_ip_address] [-w timeout] [-X proxy_version] [-x proxy_address[:port]] [hostname] [port[s]]
+
+Reference:
+- [linuxhint](https://linuxhint.com/nc-command-examples/)
+- [linux.die](https://linux.die.net/man/1/nc)
