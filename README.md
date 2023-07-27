@@ -24,7 +24,7 @@
 
 ### NC
 
-nc [-46AacCDdEFhklMnOortUuvz] [-K tc] [-b boundif] [-i interval] [-p source_port] [-s source_ip_address] [-w timeout] [-X proxy_version] [-x proxy_address[:port]] [hostname] [port[s]]
+    nc [-46AacCDdEFhklMnOortUuvz] [-K tc] [-b boundif] [-i interval] [-p source_port] [-s source_ip_address] [-w timeout] [-X proxy_version] [-x proxy_address[:port]] [hostname] [port[s]]
 
 Reference:
 - [linuxhint](https://linuxhint.com/nc-command-examples/)
