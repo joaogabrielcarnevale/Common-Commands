@@ -30,3 +30,21 @@ The nc (or netcat) utility is used for just about anything under the sun involvi
 
 Reference:
 - [linuxhint](https://linuxhint.com/nc-command-examples/) (Nc Command with 10 Examples) | [linux.die](https://linux.die.net/man/1/nc)
+
+### MTR
+
+    mtr [-hvrctglspni46] [–help] [–version] [–report] [–report-cycles COUNT] [–curses] [–split] [–raw] [–no-dns] [–gtk] [–address IP.ADD.RE.SS [–interval SECONDS] [–psize BYTES | -s BYTES] HOSTNAME [PACKETSIZE]
+
+Matt’s Traceroute (MTR) is a powerful, cross-platform network diagnostic tool that combines ping and traceroute functionalities. MTR is an evolution of traceroute that displays in-depth information by determining the packet route to the destination host. The report on the pathway contains the response percentage and response time of all hops between the source to the destination machine.
+
+Reference:
+- [linuxhint](https://linuxhint.com/mtr-a-diagnostic-tool/) (MTR: A Network Diagnostic Tool)
+
+### nslookup
+
+    nslookup [exit | finger | help | ls | lserver | root | server | set | view] [options]
+
+Nslookup is the name of a program that lets users enter a host name and find out the corresponding IP address or domain name system (DNS) record. Users can also enter a command in nslookup to do a reverse DNS lookup and find the host name for a specified IP address.
+
+Reference:
+- [TechTarget](https://www.techtarget.com/searchnetworking/definition/nslookup)
